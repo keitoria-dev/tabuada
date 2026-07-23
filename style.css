@@ -27,7 +27,7 @@ div > p{
 section{
     background-color: white;
     width: 55vw;
-    height: 30vh;
+    min-height: 30vh;
     border-radius: 10px;
     margin: auto;
     padding: 10px;
